@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   
+    <link rel="stylesheet" href="style.css">
+    
+  </head>
+  <body>
+    
+    <div class="home-button">
+      
+  
+    <a href="home.html">Home</a>
+    <br>
+    
+    <a href="states.html">States Violence</a>
+    <br>
+    
+    <a href="prevention.html">Violence Prevention</a>
+    <br>
+    
+    </div>
+
+
+    
+    <div class="school-violence">
+      
+      <img src="school-crossings.jpeg" alt="Yellow school sign." />
+      
+      <h6>How can we prevent gzun violence in our schools? - Brian J. Matis</h6>
+      
+      <div class="content">
+        
+        <h3>Violence in Schools</h3>
+        <p>Violence is the actions that are intended or likely to hurt people or cause damage.Below you will see how violence comes in many forms one being in schools.As the ideal concept of violece can be physical but there is more to it such as verbal</p>
+
+      </div>
+      </div>
+        </body>
+      </html>
