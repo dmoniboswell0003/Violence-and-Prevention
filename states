@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link rel="stylesheet" href="style.css">
+
+    
+  </head>
+  <body>
+    
+
+    
+    <a href="home.html">Home</a>
+    <br>
+    
+
+    <a href="prevention.html">Violence Prevention</a>
+    
+    
+    <a href="schools.html">School Violence</a>
+    <br>
+    
+    <img src="states-violence.png" alt="Image description" />
+
+    
+    <p>The states that have the least amount of violence are in the eastern and northeastern areas, with Connecticut in 3rd place.</p>
+    <p>The states with the highest crime rate</p>
+
+    
+  </body>
+</html>
