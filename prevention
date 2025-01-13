@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">  
+
+  </head>
+  <body>
+
+    <a href="home.html">Home</a>
+    <a href="index.html">Index</a>
+    <a href="schools.html">Schools</a>
+    <a href="states.html">States</a>
+
+    <br>     
+    <br>
+
+    <img src="youth-violence.jpg" alt="Youth violence and the cause"/> 
+    <h1>Youth Violence and The Cause</h1>
+
+    <h2>Youth violence</h2>
+
+    <p>Youth violence is not often caused by a single factor.Instead, a combination of factors at the individual, relationship, community, and societal levels can increase or decrease the risk of violence.</p> 
+
+    <p>CDC is committed to building systems and communities that ensure that every young person has the opportunity to thrive. By supporting young people at school, at home, in their communities, and for their future, we can prevent youth violence and reduce harms from experiencing it.</p>
+
+    <p>(Civil liberties for Gun violence in schools)
+      Credit:rawpixel.com</p>
+
+
+  </body>
+</html>
