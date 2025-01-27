@@ -1,0 +1,51 @@
+a {
+  flex: display;
+  border-style: solid;
+  border-color: deeppink;
+  color:deeppink;
+  background-color: pink;
+}
+
+.home-buttons {
+  flex-wrap: wrap;
+  flex-direction: column;
+  
+  
+}
+
+a:hover {
+  border-style: solid;
+  border-color: darkgreen;
+  color:darkseagreen;
+  background-color: forestgreen;
+
+}
+
+h3 {
+  color: #ff87a8;
+  font-family: fantasy;
+  border: solid;
+  background-color: lightpink;
+}
+
+p{
+  color:forestgreen;
+  font-family: fantasy;
+  border: solid;
+  border-color: darkgreen;
+  background-color: palegreen
+}
+
+h6 {
+  color:forestgreen;
+  font-family: fantasy;
+  border: solid;
+  border-color: darkgreen;
+  background-color: palegreen
+}
+
+img {
+  width: 500px;
+  border: solid;
+  border-color: darkgreen
+}
