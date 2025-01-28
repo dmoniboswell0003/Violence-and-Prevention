@@ -1,15 +1,14 @@
 a {
-  flex: display;
+  display: flex;
   border-style: solid;
   border-color: deeppink;
   color:deeppink;
   background-color: pink;
 }
 
-.home-buttons {
-  flex-wrap: wrap;
-  flex-direction: column;
-  
+.home-button {
+  display: flex;
+  padding: 10px;
   
 }
 
